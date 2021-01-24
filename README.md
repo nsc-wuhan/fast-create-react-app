@@ -1,1 +1,1 @@
-### @bj-nsc/create-nsc-component
+### @bj-nsc/react-app
